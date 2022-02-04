@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-grid-flexbox-progress-bar-fylo-data-storage-component-i3yV3L38e)
 - Live Site URL: [Live](https://deserthawk.github.io/fylo-data-storage-component/)
 
 ## My process
